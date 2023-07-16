@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chapliboy and the astra fellowship</title>
+    <link>https://fellowship.chapliboy.com/</link>
+    <description>Recent content on chapliboy and the astra fellowship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 17:21:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://fellowship.chapliboy.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hiveminder</title>
+      <link>https://fellowship.chapliboy.com/jams/hiveminder/</link>
+      <pubDate>Sun, 16 Jul 2023 17:21:22 +0530</pubDate>
+      
+      <guid>https://fellowship.chapliboy.com/jams/hiveminder/</guid>
+      <description>The goal for the first jam was to figure out how I can distill what I enjoy most about city builders, and build the simplest version of that for the jam. When I say city builder, I am mostly referring to games like Pharaoh and Caesar 3.
+What I like the most about the genre-
+ Growth. Starting off with a small colony and then slowly watching it grow over time.</description>
+    </item>
+    
+  </channel>
+</rss>

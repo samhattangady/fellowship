@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/</loc>
+    <lastmod>2023-07-16T17:21:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/jams/hiveminder/</loc>
+    <lastmod>2023-07-16T17:21:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/jams/</loc>
+    <lastmod>2023-07-16T17:21:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/tags/</loc>
+  </url>
+  
+</urlset>

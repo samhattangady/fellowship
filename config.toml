@@ -1,0 +1,12 @@
+baseURL = "https://fellowship.chapliboy.com/"
+languageCode = "en-us"
+title = "chapliboy and the astra fellowship"
+
+[params]
+thumbnail = "https://fellowship.chapliboy.com/thumbnail.png"
+description = "a site to document my experience as an astra fellow"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

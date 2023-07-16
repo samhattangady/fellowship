@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div>
+  <div class="post-page-header">
+    <h1> {{.Title}} </h1>
+  </div>
+    <div class="post-page-date">{{ .Params.Period }}</div>
+  <div class="post-goal">
+    {{ .Params.Goal }}
+  </div>
+</div>
+<hr></hr>
+<div class="post-page-contents">
+    {{.Content}}
+</div>
+{{- partial "footer.html" . -}}
+{{ end }}
