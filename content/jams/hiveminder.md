@@ -99,6 +99,6 @@ And rather than facing that fear, I took the easy way out. Hmm. I gotta do bette
 
 <br><br>
 <div class="note">
-note: The end of that got a little more personal than I had intended. But I will keep it in.
+note: The end of that got a little more than I had intended. But I will keep it in.
 I think it's something that a lot of devs face, and maybe don't talk about. So hopefully it helps.
 </div>

@@ -4,7 +4,7 @@
 
     {{ $title := print .Title " - " .Site.Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
-    {{ $description := .Params.Subtitle }}
+    {{ $description := .Params.Goal }}
     {{ if .IsHome }}{{ $description = .Site.Params.Description }}{{ end }}
     {{ $thumbnail := .Params.thumbnail }}
 
