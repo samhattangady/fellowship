@@ -6,7 +6,7 @@
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     {{ $description := .Params.Goal }}
     {{ if .IsHome }}{{ $description = .Site.Params.Description }}{{ end }}
-    {{ $thumbnail := .Params.thumbnail }}
+    {{ $thumbnail := .Site.Params.thumbnail }}
 
     <title>{{ $title }}</title>
     <meta name="description" content="{{ $description }}">
