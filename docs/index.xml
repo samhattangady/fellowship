@@ -6,10 +6,21 @@
     <description>Recent content on chapliboy and the astra fellowship</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 17:21:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 18:52:28 +0530</lastBuildDate>
     
 	<atom:link href="https://fellowship.chapliboy.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sensors n Signals</title>
+      <link>https://fellowship.chapliboy.com/jams/sensors_n_signals/</link>
+      <pubDate>Fri, 21 Jul 2023 18:52:28 +0530</pubDate>
+      
+      <guid>https://fellowship.chapliboy.com/jams/sensors_n_signals/</guid>
+      <description>The theme for the second jam was Make it Thinky. We were encouraged to select any genre that we liked, and try to make a thinky experience out of it.
+ThinkyGames.com defines thinky as
+ Thinky games are those that ask you to carefully reason your way through puzzles and challenges; games brimming with curiosity and discovery. If you find yourself thinking through a problem and then, when the insights finally dawn on you, exclaiming “aha!</description>
+    </item>
     
     <item>
       <title>hiveminder</title>
