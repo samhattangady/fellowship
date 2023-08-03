@@ -6,10 +6,16 @@
     <description>Recent content in Jams on chapliboy and the astra fellowship</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2023 18:52:28 +0530</lastBuildDate>
-    
-	<atom:link href="https://fellowship.chapliboy.com/jams/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 03 Aug 2023 11:52:28 +0530</lastBuildDate><atom:link href="https://fellowship.chapliboy.com/jams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juggler Prototype</title>
+      <link>https://fellowship.chapliboy.com/jams/juggler/</link>
+      <pubDate>Thu, 03 Aug 2023 11:52:28 +0530</pubDate>
+      
+      <guid>https://fellowship.chapliboy.com/jams/juggler/</guid>
+      <description>I got into juggling sometime during the pandemic. Its really simple. You just throw up a ball and catch it. The hard part is doing that three at a time. I&amp;rsquo;ve recently gotten back into it, and now I see it is really something that can be easily broken down into a system.
+So I wanted to make a game about juggling. The &amp;ldquo;premise&amp;rdquo; is that you have control over some kind of robot, and you have to give it precise instructions, and it will learn to juggle.</description>
+    </item>
     
     <item>
       <title>Sensors n Signals</title>
@@ -19,7 +25,7 @@
       <guid>https://fellowship.chapliboy.com/jams/sensors_n_signals/</guid>
       <description>The theme for the second jam was Make it Thinky. We were encouraged to select any genre that we liked, and try to make a thinky experience out of it.
 ThinkyGames.com defines thinky as
- Thinky games are those that ask you to carefully reason your way through puzzles and challenges; games brimming with curiosity and discovery. If you find yourself thinking through a problem and then, when the insights finally dawn on you, exclaiming “aha!</description>
+Thinky games are those that ask you to carefully reason your way through puzzles and challenges; games brimming with curiosity and discovery. If you find yourself thinking through a problem and then, when the insights finally dawn on you, exclaiming “aha!</description>
     </item>
     
     <item>
@@ -30,7 +36,7 @@ ThinkyGames.com defines thinky as
       <guid>https://fellowship.chapliboy.com/jams/hiveminder/</guid>
       <description>The goal for the first jam was to figure out how I can distill what I enjoy most about city builders, and build the simplest version of that for the jam. When I say city builder, I am mostly referring to games like Pharaoh and Caesar 3.
 What I like the most about the genre-
- Growth. Starting off with a small colony and then slowly watching it grow over time.</description>
+Growth. Starting off with a small colony and then slowly watching it grow over time. Balance.</description>
     </item>
     
   </channel>
