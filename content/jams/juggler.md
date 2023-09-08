@@ -33,6 +33,9 @@ The final day was mostly fixing bugs and things. This time, I don't have a final
 for you to try out. The final thing was a little too broken and prone to crashing to be
 fun to play with.
 
+So instead I created a [short video overview](https://youtu.be/GAoR6DXwjVQ) to highlight
+some interesting things about the game.
+
 ### conclusion
 
 It's a lovely system. It's really fun to see the kinds of things you can do, and really

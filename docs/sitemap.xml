@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/jams/cellular/</loc>
+    <lastmod>2023-08-31T09:50:53+05:30</lastmod>
+  </url>
+  
   <url>
     <loc>https://fellowship.chapliboy.com/</loc>
-    <lastmod>2023-08-03T11:52:28+05:30</lastmod>
-  </url><url>
+    <lastmod>2023-08-31T09:50:53+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fellowship.chapliboy.com/jams/</loc>
-    <lastmod>2023-08-03T11:52:28+05:30</lastmod>
-  </url><url>
+    <lastmod>2023-08-31T09:50:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fellowship.chapliboy.com/jams/deckbowler/</loc>
+    <lastmod>2023-08-21T09:50:53+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fellowship.chapliboy.com/jams/juggler/</loc>
     <lastmod>2023-08-03T11:52:28+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://fellowship.chapliboy.com/jams/sensors_n_signals/</loc>
     <lastmod>2023-07-21T18:52:28+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://fellowship.chapliboy.com/jams/hiveminder/</loc>
     <lastmod>2023-07-16T17:21:22+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://fellowship.chapliboy.com/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://fellowship.chapliboy.com/tags/</loc>
   </url>
+  
 </urlset>

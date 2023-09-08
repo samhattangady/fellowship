@@ -5,6 +5,10 @@
     <link>https://fellowship.chapliboy.com/tags/</link>
     <description>Recent content in Tags on chapliboy and the astra fellowship</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fellowship.chapliboy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://fellowship.chapliboy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
